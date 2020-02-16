@@ -3,7 +3,7 @@ package com.qatestcases;
 import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
-public class Demotest {
+public class Demojava {
 	@Test
 	public void demotest()
 	{

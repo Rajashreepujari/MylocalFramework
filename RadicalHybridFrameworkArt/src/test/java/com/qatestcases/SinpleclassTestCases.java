@@ -17,7 +17,7 @@ import com.qa.utilities.TestListener;
 @Listeners(TestListener.class)
 public class SinpleclassTestCases extends BaseClass {
 
-	//public static WebDriver driver;
+	public static WebDriver driver;
 	public AppConfigurations config;
 	public SimpledemoForm objSimpleformDemopage;
 
