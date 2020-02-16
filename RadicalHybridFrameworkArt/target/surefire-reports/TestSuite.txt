@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 27.66 sec <<< FAILURE! - in TestSuite
+verifyTitleofsimpleform(com.qatestcases.SinpleclassTestCases)  Time elapsed: 3.784 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Selenium Easy - Best Demo website to practice Selenium Webdriver Online] but found [Selenium Easy Demo - Simple Form to Automate using Selenium]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:176)
+	at org.testng.Assert.assertEquals(Assert.java:186)
+	at com.qatestcases.SinpleclassTestCases.verifyTitleofsimpleform(SinpleclassTestCases.java:35)
+

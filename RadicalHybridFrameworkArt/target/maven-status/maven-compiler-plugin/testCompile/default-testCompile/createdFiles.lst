@@ -1,0 +1,7 @@
+com\qa\Page\SimpledemoForm.class
+com\qa\base\BaseClass.class
+com\qa\utilities\AppConfigurations.class
+com\qatestcases\Demotest.class
+com\qatestcases\SinpleclassTestCases.class
+com\qa\utilities\TestListener.class
+com\qa\utilities\TestData.class
